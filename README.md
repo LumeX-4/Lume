@@ -1,1 +1,1 @@
-# LumeX
+# Lume
